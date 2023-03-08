@@ -1,0 +1,9 @@
+Ad Soyad : Burak Alper Ban	
+Okul/Bölüm/Meslek : İOS Developer
+Yaşadığı İl/İlçe : Ankara / Bilkent
+Swift Tecrübesi : 90  Gün
+Bildiği Yazılım Dilleri : JS , Swift
+Instagram : Yok
+Twitter : Yok
+Linkedin : Burak Alper Ban
+e mail : alperban@gmail.com
